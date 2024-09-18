@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my [Personal Website](https://revokeez.github.io/PersonalWebsite/FirstPage)
 
-- 🌱 I’m currently learning **UiKit**
+- 🌱 I’m currently learning **Tailwind css**
 
 - 📫 How to reach me **edwinmvazquez1@gmail.com**
 
